@@ -74,7 +74,7 @@ StringBuilder는 싱글 스레드에서 StringBuffer 는 멀티 스레드에서 
 
 http는 웹 서버 통신을 위한 프로토콜, 80번 포트를 사용
 
-https는 43번포트 사용, 암호화된 통신을 제공하는 http로 느리지만 보안유지를 위해 사용
+https는 443번포트 사용, 암호화된 통신을 제공하는 http로 느리지만 보안유지를 위해 사용
 
 **get vs post**
 
