@@ -22,7 +22,7 @@
 
 둘다 String과 다르게 한번만 만들고 메모리의 값을 변경
 
-StringBuilder는 멀티 스레드환경에서 동기화가 가능하고 Buffer 는 그렇지 않음
+StringBuilder는 싱글 스레드에서 StringBuffer 는 멀티 스레드에서 안전
 
 **interface vs abstract**
 
